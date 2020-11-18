@@ -17,7 +17,8 @@ func main() {
 	fmt.Println("7.0/3.0 =", 7.0/3.0)
 
 	// Булев тип, как вы и ожидаете,
-	// работает с логическими операторами true или false.
+	// работает с логическими
+	// операторами true или false.
 	fmt.Println(true && false)
 	fmt.Println(true || false)
 	fmt.Println(!true)
